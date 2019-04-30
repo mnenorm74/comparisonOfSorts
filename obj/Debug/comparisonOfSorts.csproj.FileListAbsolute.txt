@@ -1,0 +1,25 @@
+C:\Users\Оля\RiderProjects\comparisonOfSorts\comparisonOfSorts\bin\Debug\comparisonOfSorts.exe
+C:\Users\Оля\RiderProjects\comparisonOfSorts\comparisonOfSorts\bin\Debug\comparisonOfSorts.pdb
+C:\Users\Оля\RiderProjects\comparisonOfSorts\comparisonOfSorts\obj\Debug\comparisonOfSorts.csprojResolveAssemblyReference.cache
+C:\Users\Оля\RiderProjects\comparisonOfSorts\comparisonOfSorts\obj\Debug\comparisonOfSorts.exe
+C:\Users\Оля\RiderProjects\comparisonOfSorts\comparisonOfSorts\obj\Debug\comparisonOfSorts.pdb
+C:\Users\Оля\Desktop\comparisonOfSorts\obj\Debug\comparisonOfSorts.exe
+C:\Users\Оля\Desktop\comparisonOfSorts\obj\Debug\comparisonOfSorts.pdb
+C:\Users\Оля\Desktop\comparisonOfSorts\bin\Debug\comparisonOfSorts.exe
+C:\Users\Оля\Desktop\comparisonOfSorts\bin\Debug\comparisonOfSorts.pdb
+C:\Users\Оля\Desktop\comparisonOfSorts\obj\Debug\comparisonOfSorts.csprojResolveAssemblyReference.cache
+C:\Users\Оля\Desktop\comparisonOfSorts\obj\Debug\comparisonOfSorts.Form1.resources
+C:\Users\Оля\Desktop\comparisonOfSorts\obj\Debug\comparisonOfSorts.Properties.Resources.resources
+C:\Users\Оля\Desktop\comparisonOfSorts\obj\Debug\comparisonOfSorts.csproj.GenerateResource.Cache
+C:\Users\Оля\Desktop\comparisonOfSorts\bin\Debug\ZedGraph.dll
+C:\Users\Оля\Desktop\comparisonOfSorts\obj\Debug\comparisonOfSorts.Form2.resources
+C:\Users\Оля\Desktop\Практика\2. Получение первичных практических навыков и умений в области информационных технологий\comparisonOfSorts\obj\Debug\comparisonOfSorts.exe
+C:\Users\Оля\Desktop\Практика\2. Получение первичных практических навыков и умений в области информационных технологий\comparisonOfSorts\obj\Debug\comparisonOfSorts.pdb
+C:\Users\Оля\Desktop\Практика\2. Получение первичных практических навыков и умений в области информационных технологий\comparisonOfSorts\bin\Debug\comparisonOfSorts.exe
+C:\Users\Оля\Desktop\Практика\2. Получение первичных практических навыков и умений в области информационных технологий\comparisonOfSorts\bin\Debug\comparisonOfSorts.pdb
+C:\Users\Оля\Desktop\Практика\2. Получение первичных практических навыков и умений в области информационных технологий\comparisonOfSorts\bin\Debug\ZedGraph.dll
+C:\Users\Оля\Desktop\Практика\2. Получение первичных практических навыков и умений в области информационных технологий\comparisonOfSorts\obj\Debug\comparisonOfSorts.csprojResolveAssemblyReference.cache
+C:\Users\Оля\Desktop\Практика\2. Получение первичных практических навыков и умений в области информационных технологий\comparisonOfSorts\obj\Debug\comparisonOfSorts.Form1.resources
+C:\Users\Оля\Desktop\Практика\2. Получение первичных практических навыков и умений в области информационных технологий\comparisonOfSorts\obj\Debug\comparisonOfSorts.Form2.resources
+C:\Users\Оля\Desktop\Практика\2. Получение первичных практических навыков и умений в области информационных технологий\comparisonOfSorts\obj\Debug\comparisonOfSorts.Properties.Resources.resources
+C:\Users\Оля\Desktop\Практика\2. Получение первичных практических навыков и умений в области информационных технологий\comparisonOfSorts\obj\Debug\comparisonOfSorts.csproj.GenerateResource.Cache
